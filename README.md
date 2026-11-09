@@ -1,4 +1,4 @@
-# GENSHIN▪CODEX aggiornato
+# 原神のモリ - genshin no mori - aggiornato
 
 ## Funzioni
 - Accesso tramite UID Enka senza selezionare un JSON.
