@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Genshin Codex</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="bar">
+  <b>GENSHIN▪CODEX</b>
+  <form id="uidForm"><label for="uid">UID</label><input id="uid" inputmode="numeric" placeholder="123456789"><label class="chk"><input id="notion" type="checkbox"> aggiorna Notion</label><button class="ch pink" type="submit">⟳ Sync</button><label class="ch pink file" style="cursor:pointer">Carica JSON<input id="file" type="file" accept=".json" hidden></label></form>
+</header>
+<div class="stripe"></div>
+<main>
+  <p class="path"><label for="script">Script Python</label><input id="script" placeholder="C:\Users\TUONOME\Desktop\genshin sync\enka_to_notion.py"></p>
+  <details class="notionset"><summary>Impostazioni Notion (facoltative)</summary>
+    <p><label for="n_token">Token</label><input id="n_token" type="password" autocomplete="off"></p>
+    <p><label for="n_char">ID database personaggi</label><input id="n_char"></p>
+    <p><label for="n_wpn">ID database armi</label><input id="n_wpn"></p>
+    <p><label for="n_art">ID database manufatti</label><input id="n_art"></p>
+  </details>
+  <p id="msg" class="msg">Premi «Carica JSON» e scegli il file creato dallo script.</p>
+  <div id="filters" class="filters"></div>
+  <section id="roster" class="grid"></section>
+  <section id="sheet" hidden></section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
