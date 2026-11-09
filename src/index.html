@@ -1,28 +1,30 @@
 <!doctype html>
-<html lang="it">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>原神のモリ - genshin no mori </title>
+<title>原神のモリ - genshin no mori</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="bar">
-  <b>原神のモリ - genshin no mori</b>
+  <b class="brand"><span>原神のモリ</span><small>genshin no mori</small></b>
   <form id="uidForm">
     <label for="uid">UID</label>
     <input id="uid" inputmode="numeric" maxlength="10" placeholder="123456789" required>
-    <button class="ch pink" type="submit">⟳ Sincronizza</button>
+    <button class="ch pink" type="submit">⟳ Sync</button>
   </form>
+  <button class="ch" id="openCatalog" type="button">Game Catalog</button>
 </header>
 <div class="stripe"></div>
 <main>
-  <p id="msg" class="msg">Inserisci il tuo UID per caricare la vetrina. Assicurati che i dettagli dei personaggi siano pubblici su Enka.Network.</p>
+  <p id="msg" class="msg">Enter your Enka UID to load your showcased characters. Make sure your character details are public on Enka.Network.</p>
   <div id="filters" class="filters"></div>
   <section id="roster" class="grid"></section>
   <section id="sheet" hidden></section>
+  <section id="catalog" hidden></section>
 </main>
 <div id="weaponModal" class="modal" hidden role="dialog" aria-modal="true" aria-labelledby="weaponTitle">
   <div class="modalbox bx">
