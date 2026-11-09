@@ -1,14 +1,26 @@
-# ✦ Genshin Impact - Visionboard & Character Showcase ✦
+# GENSHIN▪CODEX aggiornato
 
-Un'applicazione web interattiva dedicata al mondo di **Genshin Impact**. Il sito permette agli utenti di esplorare i personaggi, visualizzare le loro Vision (elementi), collezionare schede informative e creare la propria **Visionboard** personalizzata.
+## Funzioni
+- Accesso tramite UID Enka senza selezionare un JSON.
+- Recupero dei personaggi, statistiche, talenti, armi e manufatti.
+- Obiettivi per livello e statistiche, con barre di avanzamento salvate localmente per UID/personaggio.
+- Scheda arma cliccabile con statistiche e descrizione/passiva quando presenti nel catalogo statico Enka.
+- Icone caricate dagli URL UI di Enka.
 
----
+## Struttura
+- `src/`: frontend.
+- `src-tauri/`: app Tauri 2 e comando Rust `fetch_enka`.
 
-## 🌟 Funzionalità Principali
+## Avvio
+Prerequisiti: Rust, Node.js e prerequisiti desktop Tauri 2 installati.
 
-- **🎴 Character Showcase:** Esplora l'elenco dei personaggi divisi per elemento (Anemo, Geo, Electro, Dendro, Hydro, Pyro, Cryo) e rarità (4★ / 5★).
-- **✦ Interactive Visionboard:** Crea e personalizza la tua lavagna visiva posizionando i tuoi personaggi e le tue regioni preferite (Mondstadt, Liyue, Inazuma, Sumeru, Fontaine, Natlan, Snezhnaya).
-- **🔍 Filtri e Ricerca:** Cerca facilmente i personaggi per nome, elemento o tipo di arma (Spada, Claymore, Arco, Catalizzatore, Lancia).
-- **📱 Design Responsive:** Interfaccia ottimizzata sia per desktop che per dispositivi mobili.
+Dalla cartella `src-tauri`:
+1. `cargo check`
+2. `cargo tauri dev` (se Tauri CLI è installato; altrimenti dalla root del progetto con la configurazione CLI corretta).
 
+La finestra richiede solo l'UID. La vetrina e i dettagli dei personaggi devono essere pubblici su Enka.Network.
 
+## Note
+- Gli obiettivi sono salvati nel `localStorage` del dispositivo e non vengono sincronizzati su Enka.
+- La passiva di alcune armi può non essere presente nel catalogo Enka scaricato: in quel caso il sito mostra un messaggio esplicito invece di inventarla.
+- Non è stata reintegrata la sincronizzazione Notion: questa versione si concentra sull'accesso UID richiesto.

@@ -1,0 +1,1776 @@
+{
+  "uid": "711356641",
+  "generated": "2026-11-09T11:46:44",
+  "characters": [
+    {
+      "id": "10000114",
+      "name": "Skirk",
+      "element": "Ice",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_SkirkNew.png",
+      "level": "90",
+      "cons": 0,
+      "stats": {
+        "hp": 20092,
+        "atk": 2037,
+        "dif": 1197,
+        "em": 68,
+        "crit_rate": 47.8,
+        "crit_dmg": 209.7,
+        "er": 100.0
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_01.png",
+          "level": 4
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_SkirkNew_01.png",
+          "level": 9
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_SkirkNew_01.png",
+          "level": 8
+        }
+      ],
+      "weapon": {
+        "name": "Finale degli abissi",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Sword_Vorpal.png",
+        "type": "Spada",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 1
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Finale delle gallerie profonde",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15040_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 7.4
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 5.3
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 24.1
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Finale delle gallerie profonde",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15040_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 10.1
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 8.7
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 5.1
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 13.2
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Set 2949387691",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15037_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 25.7
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.9
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 21
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 11.7
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Finale delle gallerie profonde",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15040_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ICE_ADD_HURT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 10.9
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 6.2
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 37
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 68
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Finale delle gallerie profonde",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15040_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL_HURT",
+            "value": 62.2
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 8.7
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 10.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 5.1
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 9.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000120",
+      "name": "Flins",
+      "element": "Electric",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Flins.png",
+      "level": "90",
+      "cons": 0,
+      "stats": {
+        "hp": 17271,
+        "atk": 2562,
+        "dif": 1051,
+        "em": 206,
+        "crit_rate": 53.2,
+        "crit_dmg": 175.4,
+        "er": 119.4
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_03.png",
+          "level": 3
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Flins_01.png",
+          "level": 9
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Flins_01.png",
+          "level": 8
+        }
+      ],
+      "weapon": {
+        "name": "Pala del prospettore",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Pole_Ilmarinen.png",
+        "type": "Lancia",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 3
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Notte della rivelazione celeste",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15041_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7.8
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 19.7
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Notte della rivelazione celeste",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15041_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 18.7
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 44
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.9
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Notte della rivelazione celeste",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15041_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 35
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 19.4
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 16
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 13
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Notte della rivelazione celeste",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15041_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 23
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 6.5
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.9
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 30.3
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Set 4144068739",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15019_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL",
+            "value": 31.1
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 68
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 10.9
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000058",
+      "name": "Yae Miko",
+      "element": "Electric",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Yae.png",
+      "level": "90",
+      "cons": 1,
+      "stats": {
+        "hp": 18403,
+        "atk": 2184,
+        "dif": 748,
+        "em": 42,
+        "crit_rate": 75.5,
+        "crit_dmg": 173.5,
+        "er": 123.3
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+          "level": 2
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Yae_01.png",
+          "level": 8
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Yae_01.png",
+          "level": 6
+        }
+      ],
+      "weapon": {
+        "name": "Sinfonia errante",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Troupe.png",
+        "type": "Catalizzatore",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 2
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Set 1086878883",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15046_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 42
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 6.2
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 13.6
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 6.5
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Set 1086878883",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15046_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 13.2
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 16.8
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Set 3710268723",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15047_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 32
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 35
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 209
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 26.4
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Set 1086878883",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15046_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7.8
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 76
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 478
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Set 1086878883",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15046_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL",
+            "value": 31.1
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 12.4
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14.8
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 508
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000112",
+      "name": "Escoffier",
+      "element": "Ice",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Escoffier.png",
+      "level": "80",
+      "cons": 0,
+      "stats": {
+        "hp": 18349,
+        "atk": 1806,
+        "dif": 884,
+        "em": 0,
+        "crit_rate": 47.0,
+        "crit_dmg": 153.4,
+        "er": 163.7
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_03.png",
+          "level": 1
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Escoffier_01.png",
+          "level": 8
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Escoffier_01.png",
+          "level": 6
+        }
+      ],
+      "weapon": {
+        "name": "Lancia di Favonius",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Pole_Zephyrus.png",
+        "type": "Lancia",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 4
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Compagnia dorata",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15032_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 62
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.1
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 21.8
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 11
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Compagnia dorata",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15032_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 14.4
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 4.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 7.3
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Compagnia dorata",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15032_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 299
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 51
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Set 625305019",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15042_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ICE_ADD_HURT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 508
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.3
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 5.4
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 17.5
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Compagnia dorata",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15032_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL_HURT",
+            "value": 62.2
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 14.6
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 35
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 986
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000109",
+      "name": "Yumemizuki Mizuki",
+      "element": "Wind",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Mizuki.png",
+      "level": "80",
+      "cons": 1,
+      "stats": {
+        "hp": 18660,
+        "atk": 1075,
+        "dif": 707,
+        "em": 881,
+        "crit_rate": 21.3,
+        "crit_dmg": 160.4,
+        "er": 141.5
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+          "level": 2
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Mizuki_01.png",
+          "level": 8
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Mizuki_01.png",
+          "level": 4
+        }
+      ],
+      "weapon": {
+        "name": "Arma 14403",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Fossil.png",
+        "type": "Catalizzatore",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 5
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 9.7
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 29
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 18.7
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 21
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 18.1
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 44
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14.8
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 187
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 39
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 747
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 19
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Set 4144068739",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15019_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 187
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14.8
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 508
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 12.3
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 37
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL_HURT",
+            "value": 62.2
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 11
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 56
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 209
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 10.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000032",
+      "name": "Bennett",
+      "element": "Fire",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Bennett.png",
+      "level": "90",
+      "cons": 3,
+      "stats": {
+        "hp": 25364,
+        "atk": 1176,
+        "dif": 882,
+        "em": 0,
+        "crit_rate": 24.8,
+        "crit_dmg": 98.2,
+        "er": 279.9
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_01.png",
+          "level": 1
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Bennett_01.png",
+          "level": 1
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Bennett_01.png",
+          "level": 9
+        }
+      ],
+      "weapon": {
+        "name": "Spada di Favonius",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Sword_Zephyrus.png",
+        "type": "Spada",
+        "rarity": 4,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 5
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Noblesse oblige",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15007_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 15.5
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.3
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.1
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 37
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Noblesse oblige",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15007_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 13.4
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7.8
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 9.7
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 35
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Roccia arcaica",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15014_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "value": 51.8
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 209
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 14.8
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 58
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Noblesse oblige",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15007_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_FIRE_ADD_HURT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 37
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.2
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 538
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 19.4
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Noblesse oblige",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15007_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP_PERCENT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 14.9
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 5.1
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 10.5
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 6.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000094",
+      "name": "Chiori",
+      "element": "Rock",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Chiori.png",
+      "level": "70",
+      "cons": 0,
+      "stats": {
+        "hp": 14286,
+        "atk": 1155,
+        "dif": 1566,
+        "em": 203,
+        "crit_rate": 72.9,
+        "crit_dmg": 155.3,
+        "er": 110.4
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_01.png",
+          "level": 1
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Chiori_01.png",
+          "level": 6
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Chiori_01.png",
+          "level": 4
+        }
+      ],
+      "weapon": {
+        "name": "Arma 11513",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Sword_Regalis.png",
+        "type": "Spada",
+        "rarity": 5,
+        "level": 70,
+        "ascension": 4,
+        "refinement": 1
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Set 2546254299",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15021_4.png",
+          "level": 19,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4577
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 7
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 16
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 23
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 15.7
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Set 2546254299",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15021_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 21.1
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Set 2546254299",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15021_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+            "value": 58.3
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 10.1
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 29
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 68
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 23
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Noblesse oblige",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15007_1.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ROCK_ADD_HURT",
+            "value": 46.6
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.5
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 8.7
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 10.4
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 19.4
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Set 2546254299",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15021_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL",
+            "value": 31.1
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 72
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 5.8
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 448
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 6.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000065",
+      "name": "Kuki Shinobu",
+      "element": "Electric",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Shinobu.png",
+      "level": "70",
+      "cons": 0,
+      "stats": {
+        "hp": 19071,
+        "atk": 1029,
+        "dif": 840,
+        "em": 566,
+        "crit_rate": 41.5,
+        "crit_dmg": 84.2,
+        "er": 135.0
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_01.png",
+          "level": 1
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Shinobu_01.png",
+          "level": 6
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Shinobu_01.png",
+          "level": 2
+        }
+      ],
+      "weapon": {
+        "name": "Kagotsurube Isshin",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Sword_Youtou.png",
+        "type": "Spada",
+        "rarity": 4,
+        "level": 60,
+        "ascension": 3,
+        "refinement": 1
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_4.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 4780
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 6.6
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 42
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 17.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 53
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_2.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 311
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 9.9
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 6.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 13.1
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 61
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Ultimo atto del gladiatore",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15001_5.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 187
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 5.4
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 21
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 21
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 9.3
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Sogni dorati",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15026_1.png",
+          "level": 19,
+          "main": {
+            "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 179
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.8
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 4.7
+            },
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 837
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 11
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Compagnia del vagabondo",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15003_3.png",
+          "level": 20,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL",
+            "value": 31.1
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 13.2
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 19
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 15.7
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 12.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000108",
+      "name": "Lan Yan",
+      "element": "Wind",
+      "icon": "https://enka.network/ui/UI_AvatarIcon_Lanyan.png",
+      "level": "50",
+      "cons": 0,
+      "stats": {
+        "hp": 9122,
+        "atk": 597,
+        "dif": 308,
+        "em": 200,
+        "crit_rate": 14.7,
+        "crit_dmg": 70.2,
+        "er": 131.1
+      },
+      "talents": [
+        {
+          "label": "Normale",
+          "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+          "level": 2
+        },
+        {
+          "label": "Abilità",
+          "icon": "https://enka.network/ui/Skill_S_Lanyan_01.png",
+          "level": 2
+        },
+        {
+          "label": "Esplosione",
+          "icon": "https://enka.network/ui/Skill_E_Lanyan_01.png",
+          "level": 1
+        }
+      ],
+      "weapon": {
+        "name": "Arma 14403",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Fossil.png",
+        "type": "Catalizzatore",
+        "rarity": 4,
+        "level": 40,
+        "ascension": 1,
+        "refinement": 5
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Set 3710268723",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15047_4.png",
+          "level": 15,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 3764
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 9.1
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7
+            },
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 4.7
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 5.8
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Set 3710268723",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15047_2.png",
+          "level": 11,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 192
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.9
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 6.2
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 11.7
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Set 3710268723",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15047_5.png",
+          "level": 4,
+          "main": {
+            "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+            "value": 60
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP_PERCENT",
+              "value": 4.7
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 4.1
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 10.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10000148",
+      "name": "alyosha",
+      "element": null,
+      "icon": null,
+      "level": "50",
+      "cons": 2,
+      "stats": {
+        "hp": 8562,
+        "atk": 1232,
+        "dif": 478,
+        "em": 47,
+        "crit_rate": 31.3,
+        "crit_dmg": 67.9,
+        "er": 168.9
+      },
+      "talents": [],
+      "weapon": {
+        "name": "Arma 13502",
+        "icon": "https://enka.network/ui/UI_EquipIcon_Pole_Dvalin.png",
+        "type": null,
+        "rarity": 5,
+        "level": 90,
+        "ascension": 6,
+        "refinement": 1
+      },
+      "artifacts": [
+        {
+          "slot": "Fiore",
+          "set": "Set 1035953267",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15048_4.png",
+          "level": 0,
+          "main": {
+            "stat": "FIGHT_PROP_HP",
+            "value": 717
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.5
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK",
+              "value": 16
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 5.1
+            }
+          ]
+        },
+        {
+          "slot": "Piuma",
+          "set": "Set 1035953267",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15048_2.png",
+          "level": 0,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK",
+            "value": 47
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_HP",
+              "value": 299
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 5.8
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 5.4
+            }
+          ]
+        },
+        {
+          "slot": "Clessidra",
+          "set": "Set 1035953267",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15048_5.png",
+          "level": 0,
+          "main": {
+            "stat": "FIGHT_PROP_ATTACK_PERCENT",
+            "value": 7
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 5.4
+            },
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 6.5
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 23
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE_PERCENT",
+              "value": 5.1
+            }
+          ]
+        },
+        {
+          "slot": "Calice",
+          "set": "Set 1035953267",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15048_1.png",
+          "level": 0,
+          "main": {
+            "stat": "FIGHT_PROP_HP_PERCENT",
+            "value": 7
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CRITICAL",
+              "value": 3.5
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            },
+            {
+              "stat": "FIGHT_PROP_CRITICAL_HURT",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "slot": "Corona",
+          "set": "Set 3710268723",
+          "icon": "https://enka.network/ui/UI_RelicIcon_15047_3.png",
+          "level": 5,
+          "main": {
+            "stat": "FIGHT_PROP_CRITICAL",
+            "value": 11.3
+          },
+          "subs": [
+            {
+              "stat": "FIGHT_PROP_CHARGE_EFFICIENCY",
+              "value": 6.5
+            },
+            {
+              "stat": "FIGHT_PROP_DEFENSE",
+              "value": 21
+            },
+            {
+              "stat": "FIGHT_PROP_ELEMENT_MASTERY",
+              "value": 23
+            },
+            {
+              "stat": "FIGHT_PROP_ATTACK_PERCENT",
+              "value": 5.3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
